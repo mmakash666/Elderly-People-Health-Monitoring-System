@@ -1,13 +1,13 @@
 // Firebase configuration setup API from my elderly patient monitoring system
 const config = {
-    apiKey: "AIzaSyDy3IFXNDCgPY5JaZFdldY4yud_9xr1b28",  
-    authDomain: "elderly-patient-monitoring.firebaseapp.com",  
-    databaseURL: "https://elderly-patient-monitoring-default-rtdb.firebaseio.com",  
-    projectId: "elderly-patient-monitoring",  
-    storageBucket: "elderly-patient-monitoring.firebasestorage.app", 
-    messagingSenderId: "111652178316",  
-    appId: "1:111652178316:web:2e74a22da221166b5daea9", 
-    measurementId: "G-5RQ3TC88T5" 
+    apiKey: "",  
+    authDomain: "",  
+    databaseURL: "",  
+    projectId: "",  
+    storageBucket: "", 
+    messagingSenderId: "",  
+    appId: "", 
+    measurementId: "" 
 };
 
 // Initialize Firebase
